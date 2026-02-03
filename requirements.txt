@@ -1,0 +1,16 @@
+streamlit
+pillow
+opencv-python
+rembg
+easyocr
+pytesseract
+PyPDF2
+pdfplumber
+reportlab
+python-docx
+qrcode
+psutil
+pandas
+openpyxl
+numpy
+plotly
