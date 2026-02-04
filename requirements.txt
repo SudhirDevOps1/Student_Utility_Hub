@@ -1,9 +1,6 @@
 streamlit
 pillow
-opencv-python
-rembg
-easyocr
-pytesseract
+opencv-python-headless
 PyPDF2
 pdfplumber
 reportlab
@@ -14,3 +11,5 @@ pandas
 openpyxl
 numpy
 plotly
+
+
