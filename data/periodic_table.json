@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "elements": [
+    {
+      "name": "Hydrogen",
+      "symbol": "H",
+      "number": 1,
+      "mass": "1.008",
+      "category": "Nonmetal",
+      "group": 1,
+      "period": 1
+    },
+    {
+      "name": "Helium",
+      "symbol": "He",
+      "number": 2,
+      "mass": "4.0026",
+      "category": "Noble Gas",
+      "group": 18,
+      "period": 1
+    },
+    {
+      "name": "Uranium",
+      "symbol": "U",
+      "number": 92,
+      "mass": "238.03",
+      "category": "Actinide",
+      "group": 3,
+      "period": 7
+    }
+  ]
+}
