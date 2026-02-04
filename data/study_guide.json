@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "study_techniques": [
+    {
+      "name": "Pomodoro Technique",
+      "description": "Time management method using 25-minute focused work sessions followed by short breaks",
+      "best_for": "Long study sessions, avoiding burnout, maintaining focus",
+      "steps": [
+        "Choose a task to work on",
+        "Set timer for 25 minutes",
+        "Work with full focus until timer rings",
+        "Take a 5-minute break",
+        "After 4 pomodoros, take a 15-30 minute break"
+      ]
+    },
+    {
+      "name": "Feynman Technique",
+      "description": "Learn by teaching - explain concepts in simple terms as if teaching a child",
+      "best_for": "Deep understanding, identifying knowledge gaps, complex topics",
+      "steps": [
+        "Choose a concept to learn",
+        "Explain it in simple language on paper",
+        "Identify gaps in your explanation",
+        "Go back to source material and fill gaps",
+        "Simplify and use analogies"
+      ]
+    },
+    {
+      "name": "Active Recall",
+      "description": "Test yourself repeatedly instead of passive reading",
+      "best_for": "Long-term retention, exam preparation, memorization",
+      "steps": [
+        "Read the material once",
+        "Close the book and write what you remember",
+        "Check what you missed",
+        "Repeat until you recall everything",
+        "Space out your practice sessions"
+      ]
+    },
+    {
+      "name": "Spaced Repetition",
+      "description": "Review material at increasing intervals to strengthen memory",
+      "best_for": "Vocabulary, formulas, facts, long-term memory",
+      "steps": [
+        "Learn new material",
+        "Review after 1 day",
+        "Review after 3 days",
+        "Review after 1 week",
+        "Review after 2 weeks, then monthly"
+      ]
+    },
+    {
+      "name": "Mind Mapping",
+      "description": "Visual diagram connecting ideas around a central concept",
+      "best_for": "Brainstorming, essay planning, connecting ideas",
+      "steps": [
+        "Write main topic in center",
+        "Draw branches for subtopics",
+        "Add details to each branch",
+        "Use colors and images",
+        "Connect related ideas with lines"
+      ]
+    },
+    {
+      "name": "SQ3R Method",
+      "description": "Survey, Question, Read, Recite, Review - structured reading method",
+      "best_for": "Textbook reading, comprehension, academic study",
+      "steps": [
+        "Survey - skim headings and summaries",
+        "Question - create questions from headings",
+        "Read - read actively to answer questions",
+        "Recite - summarize in your own words",
+        "Review - go over material periodically"
+      ]
+    },
+    {
+      "name": "Cornell Note-Taking",
+      "description": "Divide page into sections for notes, cues, and summary",
+      "best_for": "Lectures, organized notes, review sessions",
+      "steps": [
+        "Divide page: narrow left column, wide right column, bottom section",
+        "Take notes in right column during lecture",
+        "Write keywords/questions in left column after",
+        "Write summary at bottom",
+        "Use left column to self-test"
+      ]
+    },
+    {
+      "name": "Chunking",
+      "description": "Break large information into smaller, manageable chunks",
+      "best_for": "Phone numbers, long texts, complex information",
+      "steps": [
+        "Identify the full content to learn",
+        "Break into logical smaller parts",
+        "Learn one chunk at a time",
+        "Connect chunks together",
+        "Practice recalling all chunks"
+      ]
+    },
+    {
+      "name": "Interleaving",
+      "description": "Mix different topics or problem types in one study session",
+      "best_for": "Math problems, skill building, avoiding monotony",
+      "steps": [
+        "Identify 2-3 related topics",
+        "Study topic A for 20 minutes",
+        "Switch to topic B for 20 minutes",
+        "Switch to topic C for 20 minutes",
+        "Repeat cycle and review connections"
+      ]
+    },
+    {
+      "name": "Dual Coding",
+      "description": "Combine verbal and visual information for better memory",
+      "best_for": "Visual learners, complex concepts, science topics",
+      "steps": [
+        "Read the text content",
+        "Create a visual representation",
+        "Draw diagrams, flowcharts, or pictures",
+        "Label visuals with key terms",
+        "Review both text and visuals together"
+      ]
+    }
+  ],
+  "study_tips": [
+    "Study in a quiet, well-lit environment",
+    "Keep your phone on silent or in another room",
+    "Stay hydrated - keep water bottle nearby",
+    "Take regular breaks to avoid mental fatigue",
+    "Get 7-8 hours of sleep for better retention",
+    "Exercise regularly to boost brain function",
+    "Eat brain foods: nuts, berries, fish",
+    "Study difficult subjects when you're most alert",
+    "Use multiple senses while studying",
+    "Teach what you learn to someone else",
+    "Create a consistent study schedule",
+    "Set specific, achievable goals for each session",
+    "Review notes within 24 hours of class",
+    "Use active learning over passive reading",
+    "Take handwritten notes for better retention",
+    "Break large tasks into smaller chunks",
+    "Reward yourself after completing goals",
+    "Join or form study groups for difficult subjects",
+    "Use apps to block distracting websites",
+    "Practice past papers and sample questions",
+    "Summarize each chapter in your own words",
+    "Use mnemonics for memorization",
+    "Study in short bursts rather than long sessions",
+    "Keep all study materials organized",
+    "Ask questions when you don't understand"
+  ],
+  "exam_strategies": {
+    "before_exam": [
+      "Start revision at least 2 weeks before exam",
+      "Create a revision timetable",
+      "Identify weak topics and prioritize them",
+      "Practice with past papers under timed conditions",
+      "Prepare all materials the night before",
+      "Get a good night's sleep before exam day",
+      "Eat a healthy breakfast on exam day",
+      "Arrive at exam venue 15-20 minutes early",
+      "Use flashcards for quick revision",
+      "Review formulas and key concepts",
+      "Stay calm and avoid last-minute cramming",
+      "Do light revision, not heavy studying the night before"
+    ],
+    "during_exam": [
+      "Read all instructions carefully",
+      "Scan through the entire paper first",
+      "Allocate time based on marks per question",
+      "Start with questions you know well",
+      "Attempt all questions - never leave blanks",
+      "Show all working in calculation questions",
+      "Underline key words in questions",
+      "Keep track of time throughout",
+      "Leave difficult questions for later",
+      "Review answers if time permits",
+      "Write clearly and organize your answers",
+      "Stay calm if you feel stuck - move on and return later"
+    ],
+    "subject_specific": {
+      "mathematics": [
+        "Memorize all formulas and practice applying them",
+        "Show step-by-step working for full marks",
+        "Double-check calculations",
+        "Draw diagrams for geometry problems",
+        "Practice mental math for quick calculations",
+        "Understand concepts, don't just memorize",
+        "Practice different types of problems daily"
+      ],
+      "science": [
+        "Draw labeled diagrams where relevant",
+        "Learn scientific terminology correctly",
+        "Understand concepts through experiments",
+        "Connect theory to real-world examples",
+        "Practice numerical problems regularly",
+        "Memorize important reactions and equations",
+        "Use flowcharts for processes"
+      ],
+      "english": [
+        "Read the passage carefully before answering",
+        "Plan essays before writing",
+        "Use quotes to support your arguments",
+        "Check grammar and spelling",
+        "Expand vocabulary through reading",
+        "Practice different writing formats",
+        "Time yourself during practice essays"
+      ],
+      "history": [
+        "Create timelines for events",
+        "Remember key dates and figures",
+        "Understand cause and effect relationships",
+        "Use acronyms for lists",
+        "Connect events to their consequences",
+        "Practice writing structured answers",
+        "Use maps for geographical context"
+      ],
+      "geography": [
+        "Study maps and practice map reading",
+        "Learn case studies thoroughly",
+        "Draw diagrams for physical processes",
+        "Know statistical data for key topics",
+        "Understand human-environment relationships",
+        "Practice locating places on maps",
+        "Connect concepts to current events"
+      ],
+      "computer_science": [
+        "Practice coding regularly",
+        "Understand algorithms, not just syntax",
+        "Trace through code step by step",
+        "Draw flowcharts for complex logic",
+        "Learn time and space complexity",
+        "Debug code systematically",
+        "Practice typing for faster coding"
+      ]
+    }
+  }
+}
