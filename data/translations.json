@@ -1,0 +1,761 @@
+{
+  "version": 1,
+  "common_phrases": {
+    "hello": {
+      "hi": "नमस्ते",
+      "en": "Hello",
+      "es": "Hola",
+      "fr": "Bonjour",
+      "de": "Hallo"
+    },
+    "thank_you": {
+      "hi": "धन्यवाद",
+      "en": "Thank you",
+      "es": "Gracias",
+      "fr": "Merci",
+      "de": "Danke"
+    },
+    "good_morning": {
+      "hi": "सुप्रभात",
+      "en": "Good morning",
+      "es": "Buenos días",
+      "fr": "Bonjour",
+      "de": "Guten Morgen"
+    },
+    "good_night": {
+      "hi": "शुभ रात्रि",
+      "en": "Good night",
+      "es": "Buenas noches",
+      "fr": "Bonne nuit",
+      "de": "Gute Nacht"
+    },
+    "good_evening": {
+      "hi": "शुभ संध्या",
+      "en": "Good evening",
+      "es": "Buenas tardes",
+      "fr": "Bonsoir",
+      "de": "Guten Abend"
+    },
+    "how_are_you": {
+      "hi": "आप कैसे हैं?",
+      "en": "How are you?",
+      "es": "¿Cómo estás?",
+      "fr": "Comment allez-vous?",
+      "de": "Wie geht es Ihnen?"
+    },
+    "i_am_fine": {
+      "hi": "मैं ठीक हूँ",
+      "en": "I am fine",
+      "es": "Estoy bien",
+      "fr": "Je vais bien",
+      "de": "Mir geht es gut"
+    },
+    "what_is_your_name": {
+      "hi": "आपका नाम क्या है?",
+      "en": "What is your name?",
+      "es": "¿Cómo te llamas?",
+      "fr": "Comment vous appelez-vous?",
+      "de": "Wie heißen Sie?"
+    },
+    "my_name_is": {
+      "hi": "मेरा नाम है",
+      "en": "My name is",
+      "es": "Mi nombre es",
+      "fr": "Je m'appelle",
+      "de": "Mein Name ist"
+    },
+    "please": {
+      "hi": "कृपया",
+      "en": "Please",
+      "es": "Por favor",
+      "fr": "S'il vous plaît",
+      "de": "Bitte"
+    },
+    "sorry": {
+      "hi": "माफ़ कीजिए",
+      "en": "Sorry",
+      "es": "Lo siento",
+      "fr": "Désolé",
+      "de": "Entschuldigung"
+    },
+    "excuse_me": {
+      "hi": "सुनिए",
+      "en": "Excuse me",
+      "es": "Disculpe",
+      "fr": "Excusez-moi",
+      "de": "Entschuldigen Sie"
+    },
+    "goodbye": {
+      "hi": "अलविदा",
+      "en": "Goodbye",
+      "es": "Adiós",
+      "fr": "Au revoir",
+      "de": "Auf Wiedersehen"
+    },
+    "see_you_later": {
+      "hi": "फिर मिलेंगे",
+      "en": "See you later",
+      "es": "Hasta luego",
+      "fr": "À plus tard",
+      "de": "Bis später"
+    },
+    "yes": {
+      "hi": "हाँ",
+      "en": "Yes",
+      "es": "Sí",
+      "fr": "Oui",
+      "de": "Ja"
+    },
+    "no": {
+      "hi": "नहीं",
+      "en": "No",
+      "es": "No",
+      "fr": "Non",
+      "de": "Nein"
+    },
+    "okay": {
+      "hi": "ठीक है",
+      "en": "Okay",
+      "es": "Vale",
+      "fr": "D'accord",
+      "de": "Okay"
+    },
+    "come_here": {
+      "hi": "यहाँ आओ",
+      "en": "Come here",
+      "es": "Ven aquí",
+      "fr": "Viens ici",
+      "de": "Komm her"
+    },
+    "go_there": {
+      "hi": "वहाँ जाओ",
+      "en": "Go there",
+      "es": "Ve allí",
+      "fr": "Va là-bas",
+      "de": "Geh dorthin"
+    },
+    "sit_down": {
+      "hi": "बैठ जाओ",
+      "en": "Sit down",
+      "es": "Siéntate",
+      "fr": "Asseyez-vous",
+      "de": "Setz dich"
+    },
+    "stand_up": {
+      "hi": "खड़े हो जाओ",
+      "en": "Stand up",
+      "es": "Levántate",
+      "fr": "Lève-toi",
+      "de": "Steh auf"
+    },
+    "wait": {
+      "hi": "रुको",
+      "en": "Wait",
+      "es": "Espera",
+      "fr": "Attendez",
+      "de": "Warte"
+    },
+    "hurry_up": {
+      "hi": "जल्दी करो",
+      "en": "Hurry up",
+      "es": "Date prisa",
+      "fr": "Dépêche-toi",
+      "de": "Beeil dich"
+    },
+    "slowly": {
+      "hi": "धीरे धीरे",
+      "en": "Slowly",
+      "es": "Despacio",
+      "fr": "Lentement",
+      "de": "Langsam"
+    },
+    "what_happened": {
+      "hi": "क्या हुआ?",
+      "en": "What happened?",
+      "es": "¿Qué pasó?",
+      "fr": "Qu'est-ce qui s'est passé?",
+      "de": "Was ist passiert?"
+    },
+    "where_are_you_going": {
+      "hi": "कहाँ जा रहे हो?",
+      "en": "Where are you going?",
+      "es": "¿Adónde vas?",
+      "fr": "Où allez-vous?",
+      "de": "Wohin gehst du?"
+    },
+    "where_is": {
+      "hi": "कहाँ है?",
+      "en": "Where is?",
+      "es": "¿Dónde está?",
+      "fr": "Où est?",
+      "de": "Wo ist?"
+    },
+    "how_much": {
+      "hi": "कितने का है?",
+      "en": "How much?",
+      "es": "¿Cuánto cuesta?",
+      "fr": "Combien?",
+      "de": "Wie viel?"
+    },
+    "too_expensive": {
+      "hi": "बहुत महंगा है",
+      "en": "Too expensive",
+      "es": "Muy caro",
+      "fr": "Trop cher",
+      "de": "Zu teuer"
+    },
+    "give_discount": {
+      "hi": "कुछ कम करो",
+      "en": "Give discount",
+      "es": "Dame descuento",
+      "fr": "Faites une remise",
+      "de": "Geben Sie Rabatt"
+    },
+    "water": {
+      "hi": "पानी",
+      "en": "Water",
+      "es": "Agua",
+      "fr": "Eau",
+      "de": "Wasser"
+    },
+    "food": {
+      "hi": "खाना",
+      "en": "Food",
+      "es": "Comida",
+      "fr": "Nourriture",
+      "de": "Essen"
+    },
+    "i_am_hungry": {
+      "hi": "मुझे भूख लगी है",
+      "en": "I am hungry",
+      "es": "Tengo hambre",
+      "fr": "J'ai faim",
+      "de": "Ich habe Hunger"
+    },
+    "i_am_thirsty": {
+      "hi": "मुझे प्यास लगी है",
+      "en": "I am thirsty",
+      "es": "Tengo sed",
+      "fr": "J'ai soif",
+      "de": "Ich habe Durst"
+    },
+    "i_am_tired": {
+      "hi": "मैं थक गया हूँ",
+      "en": "I am tired",
+      "es": "Estoy cansado",
+      "fr": "Je suis fatigué",
+      "de": "Ich bin müde"
+    },
+    "i_am_happy": {
+      "hi": "मैं खुश हूँ",
+      "en": "I am happy",
+      "es": "Estoy feliz",
+      "fr": "Je suis heureux",
+      "de": "Ich bin glücklich"
+    },
+    "i_am_sad": {
+      "hi": "मैं दुखी हूँ",
+      "en": "I am sad",
+      "es": "Estoy triste",
+      "fr": "Je suis triste",
+      "de": "Ich bin traurig"
+    },
+    "today": {
+      "hi": "आज",
+      "en": "Today",
+      "es": "Hoy",
+      "fr": "Aujourd'hui",
+      "de": "Heute"
+    },
+    "tomorrow": {
+      "hi": "कल",
+      "en": "Tomorrow",
+      "es": "Mañana",
+      "fr": "Demain",
+      "de": "Morgen"
+    },
+    "yesterday": {
+      "hi": "कल",
+      "en": "Yesterday",
+      "es": "Ayer",
+      "fr": "Hier",
+      "de": "Gestern"
+    },
+    "now": {
+      "hi": "अभी",
+      "en": "Now",
+      "es": "Ahora",
+      "fr": "Maintenant",
+      "de": "Jetzt"
+    },
+    "later": {
+      "hi": "बाद में",
+      "en": "Later",
+      "es": "Más tarde",
+      "fr": "Plus tard",
+      "de": "Später"
+    },
+    "what_time_is_it": {
+      "hi": "कितने बजे हैं?",
+      "en": "What time is it?",
+      "es": "¿Qué hora es?",
+      "fr": "Quelle heure est-il?",
+      "de": "Wie spät ist es?"
+    },
+    "i_dont_know": {
+      "hi": "मुझे नहीं पता",
+      "en": "I don't know",
+      "es": "No lo sé",
+      "fr": "Je ne sais pas",
+      "de": "Ich weiß nicht"
+    },
+    "i_understand": {
+      "hi": "मैं समझ गया",
+      "en": "I understand",
+      "es": "Entiendo",
+      "fr": "Je comprends",
+      "de": "Ich verstehe"
+    },
+    "i_dont_understand": {
+      "hi": "मुझे समझ नहीं आया",
+      "en": "I don't understand",
+      "es": "No entiendo",
+      "fr": "Je ne comprends pas",
+      "de": "Ich verstehe nicht"
+    },
+    "please_repeat": {
+      "hi": "फिर से बोलिए",
+      "en": "Please repeat",
+      "es": "Por favor repita",
+      "fr": "Répétez s'il vous plaît",
+      "de": "Bitte wiederholen"
+    },
+    "speak_slowly": {
+      "hi": "धीरे बोलिए",
+      "en": "Speak slowly",
+      "es": "Habla despacio",
+      "fr": "Parlez lentement",
+      "de": "Sprechen Sie langsam"
+    },
+    "help_me": {
+      "hi": "मेरी मदद करो",
+      "en": "Help me",
+      "es": "Ayúdame",
+      "fr": "Aidez-moi",
+      "de": "Hilf mir"
+    },
+    "where_is_bathroom": {
+      "hi": "बाथरूम कहाँ है?",
+      "en": "Where is the bathroom?",
+      "es": "¿Dónde está el baño?",
+      "fr": "Où sont les toilettes?",
+      "de": "Wo ist die Toilette?"
+    },
+    "i_am_lost": {
+      "hi": "मैं रास्ता भूल गया",
+      "en": "I am lost",
+      "es": "Estoy perdido",
+      "fr": "Je suis perdu",
+      "de": "Ich habe mich verlaufen"
+    },
+    "call_police": {
+      "hi": "पुलिस को बुलाओ",
+      "en": "Call the police",
+      "es": "Llama a la policía",
+      "fr": "Appelez la police",
+      "de": "Rufen Sie die Polizei"
+    },
+    "call_doctor": {
+      "hi": "डॉक्टर को बुलाओ",
+      "en": "Call a doctor",
+      "es": "Llama a un médico",
+      "fr": "Appelez un médecin",
+      "de": "Rufen Sie einen Arzt"
+    },
+    "be_careful": {
+      "hi": "सावधान रहो",
+      "en": "Be careful",
+      "es": "Ten cuidado",
+      "fr": "Sois prudent",
+      "de": "Sei vorsichtig"
+    },
+    "no_problem": {
+      "hi": "कोई बात नहीं",
+      "en": "No problem",
+      "es": "No hay problema",
+      "fr": "Pas de problème",
+      "de": "Kein Problem"
+    },
+    "its_okay": {
+      "hi": "ठीक है",
+      "en": "It's okay",
+      "es": "Está bien",
+      "fr": "C'est bon",
+      "de": "Es ist okay"
+    },
+    "congratulations": {
+      "hi": "बधाई हो",
+      "en": "Congratulations",
+      "es": "Felicidades",
+      "fr": "Félicitations",
+      "de": "Herzlichen Glückwunsch"
+    },
+    "happy_birthday": {
+      "hi": "जन्मदिन मुबारक",
+      "en": "Happy Birthday",
+      "es": "Feliz cumpleaños",
+      "fr": "Joyeux anniversaire",
+      "de": "Alles Gute zum Geburtstag"
+    },
+    "welcome": {
+      "hi": "स्वागत है",
+      "en": "Welcome",
+      "es": "Bienvenido",
+      "fr": "Bienvenue",
+      "de": "Willkommen"
+    },
+    "you_are_welcome": {
+      "hi": "कोई बात नहीं",
+      "en": "You're welcome",
+      "es": "De nada",
+      "fr": "De rien",
+      "de": "Bitte schön"
+    },
+    "i_love_you": {
+      "hi": "मैं तुमसे प्यार करता हूँ",
+      "en": "I love you",
+      "es": "Te quiero",
+      "fr": "Je t'aime",
+      "de": "Ich liebe dich"
+    },
+    "i_miss_you": {
+      "hi": "मुझे तुम्हारी याद आती है",
+      "en": "I miss you",
+      "es": "Te extraño",
+      "fr": "Tu me manques",
+      "de": "Ich vermisse dich"
+    },
+    "take_care": {
+      "hi": "अपना ख्याल रखना",
+      "en": "Take care",
+      "es": "Cuídate",
+      "fr": "Prends soin de toi",
+      "de": "Pass auf dich auf"
+    },
+    "good_luck": {
+      "hi": "शुभकामनाएं",
+      "en": "Good luck",
+      "es": "Buena suerte",
+      "fr": "Bonne chance",
+      "de": "Viel Glück"
+    },
+    "dont_worry": {
+      "hi": "चिंता मत करो",
+      "en": "Don't worry",
+      "es": "No te preocupes",
+      "fr": "Ne t'inquiète pas",
+      "de": "Mach dir keine Sorgen"
+    },
+    "listen": {
+      "hi": "सुनो",
+      "en": "Listen",
+      "es": "Escucha",
+      "fr": "Écoute",
+      "de": "Hör zu"
+    },
+    "look": {
+      "hi": "देखो",
+      "en": "Look",
+      "es": "Mira",
+      "fr": "Regarde",
+      "de": "Schau"
+    },
+    "stop": {
+      "hi": "रुको",
+      "en": "Stop",
+      "es": "Para",
+      "fr": "Arrête",
+      "de": "Stopp"
+    },
+    "lets_go": {
+      "hi": "चलो",
+      "en": "Let's go",
+      "es": "Vamos",
+      "fr": "Allons-y",
+      "de": "Lass uns gehen"
+    },
+    "open": {
+      "hi": "खोलो",
+      "en": "Open",
+      "es": "Abre",
+      "fr": "Ouvre",
+      "de": "Öffne"
+    },
+    "close": {
+      "hi": "बंद करो",
+      "en": "Close",
+      "es": "Cierra",
+      "fr": "Ferme",
+      "de": "Schließe"
+    },
+    "left": {
+      "hi": "बाएं",
+      "en": "Left",
+      "es": "Izquierda",
+      "fr": "Gauche",
+      "de": "Links"
+    },
+    "right": {
+      "hi": "दाएं",
+      "en": "Right",
+      "es": "Derecha",
+      "fr": "Droite",
+      "de": "Rechts"
+    },
+    "straight": {
+      "hi": "सीधे",
+      "en": "Straight",
+      "es": "Recto",
+      "fr": "Tout droit",
+      "de": "Geradeaus"
+    },
+    "here": {
+      "hi": "यहाँ",
+      "en": "Here",
+      "es": "Aquí",
+      "fr": "Ici",
+      "de": "Hier"
+    },
+    "there": {
+      "hi": "वहाँ",
+      "en": "There",
+      "es": "Allí",
+      "fr": "Là-bas",
+      "de": "Dort"
+    },
+    "this": {
+      "hi": "यह",
+      "en": "This",
+      "es": "Esto",
+      "fr": "Ceci",
+      "de": "Dies"
+    },
+    "that": {
+      "hi": "वह",
+      "en": "That",
+      "es": "Eso",
+      "fr": "Cela",
+      "de": "Das"
+    },
+    "who": {
+      "hi": "कौन?",
+      "en": "Who?",
+      "es": "¿Quién?",
+      "fr": "Qui?",
+      "de": "Wer?"
+    },
+    "what": {
+      "hi": "क्या?",
+      "en": "What?",
+      "es": "¿Qué?",
+      "fr": "Quoi?",
+      "de": "Was?"
+    },
+    "when": {
+      "hi": "कब?",
+      "en": "When?",
+      "es": "¿Cuándo?",
+      "fr": "Quand?",
+      "de": "Wann?"
+    },
+    "why": {
+      "hi": "क्यों?",
+      "en": "Why?",
+      "es": "¿Por qué?",
+      "fr": "Pourquoi?",
+      "de": "Warum?"
+    },
+    "how": {
+      "hi": "कैसे?",
+      "en": "How?",
+      "es": "¿Cómo?",
+      "fr": "Comment?",
+      "de": "Wie?"
+    },
+    "which": {
+      "hi": "कौन सा?",
+      "en": "Which?",
+      "es": "¿Cuál?",
+      "fr": "Lequel?",
+      "de": "Welcher?"
+    },
+    "very_good": {
+      "hi": "बहुत अच्छा",
+      "en": "Very good",
+      "es": "Muy bien",
+      "fr": "Très bien",
+      "de": "Sehr gut"
+    },
+    "delicious": {
+      "hi": "स्वादिष्ट",
+      "en": "Delicious",
+      "es": "Delicioso",
+      "fr": "Délicieux",
+      "de": "Lecker"
+    },
+    "beautiful": {
+      "hi": "सुंदर",
+      "en": "Beautiful",
+      "es": "Hermoso",
+      "fr": "Beau",
+      "de": "Schön"
+    },
+    "i_agree": {
+      "hi": "मैं सहमत हूँ",
+      "en": "I agree",
+      "es": "Estoy de acuerdo",
+      "fr": "Je suis d'accord",
+      "de": "Ich stimme zu"
+    },
+    "i_disagree": {
+      "hi": "मैं सहमत नहीं हूँ",
+      "en": "I disagree",
+      "es": "No estoy de acuerdo",
+      "fr": "Je ne suis pas d'accord",
+      "de": "Ich stimme nicht zu"
+    },
+    "of_course": {
+      "hi": "बिल्कुल",
+      "en": "Of course",
+      "es": "Por supuesto",
+      "fr": "Bien sûr",
+      "de": "Natürlich"
+    },
+    "never_mind": {
+      "hi": "कोई बात नहीं",
+      "en": "Never mind",
+      "es": "No importa",
+      "fr": "Peu importe",
+      "de": "Macht nichts"
+    },
+    "one_minute": {
+      "hi": "एक मिनट",
+      "en": "One minute",
+      "es": "Un minuto",
+      "fr": "Une minute",
+      "de": "Eine Minute"
+    },
+    "i_need": {
+      "hi": "मुझे चाहिए",
+      "en": "I need",
+      "es": "Necesito",
+      "fr": "J'ai besoin",
+      "de": "Ich brauche"
+    },
+    "i_want": {
+      "hi": "मुझे चाहिए",
+      "en": "I want",
+      "es": "Quiero",
+      "fr": "Je veux",
+      "de": "Ich will"
+    },
+    "i_like": {
+      "hi": "मुझे पसंद है",
+      "en": "I like",
+      "es": "Me gusta",
+      "fr": "J'aime",
+      "de": "Ich mag"
+    },
+    "i_dont_like": {
+      "hi": "मुझे पसंद नहीं है",
+      "en": "I don't like",
+      "es": "No me gusta",
+      "fr": "Je n'aime pas",
+      "de": "Ich mag nicht"
+    },
+    "give_me": {
+      "hi": "मुझे दो",
+      "en": "Give me",
+      "es": "Dame",
+      "fr": "Donne-moi",
+      "de": "Gib mir"
+    },
+    "show_me": {
+      "hi": "मुझे दिखाओ",
+      "en": "Show me",
+      "es": "Muéstrame",
+      "fr": "Montre-moi",
+      "de": "Zeig mir"
+    },
+    "tell_me": {
+      "hi": "मुझे बताओ",
+      "en": "Tell me",
+      "es": "Dime",
+      "fr": "Dis-moi",
+      "de": "Sag mir"
+    },
+    "call_me": {
+      "hi": "मुझे फोन करो",
+      "en": "Call me",
+      "es": "Llámame",
+      "fr": "Appelle-moi",
+      "de": "Ruf mich an"
+    },
+    "wait_for_me": {
+      "hi": "मेरा इंतज़ार करो",
+      "en": "Wait for me",
+      "es": "Espérame",
+      "fr": "Attends-moi",
+      "de": "Warte auf mich"
+    },
+    "come_with_me": {
+      "hi": "मेरे साथ आओ",
+      "en": "Come with me",
+      "es": "Ven conmigo",
+      "fr": "Viens avec moi",
+      "de": "Komm mit mir"
+    },
+    "where_do_you_live": {
+      "hi": "आप कहाँ रहते हैं?",
+      "en": "Where do you live?",
+      "es": "¿Dónde vives?",
+      "fr": "Où habitez-vous?",
+      "de": "Wo wohnen Sie?"
+    },
+    "what_do_you_do": {
+      "hi": "आप क्या करते हैं?",
+      "en": "What do you do?",
+      "es": "¿A qué te dedicas?",
+      "fr": "Que faites-vous?",
+      "de": "Was machen Sie?"
+    },
+    "nice_to_meet_you": {
+      "hi": "आपसे मिलकर खुशी हुई",
+      "en": "Nice to meet you",
+      "es": "Encantado de conocerte",
+      "fr": "Enchanté",
+      "de": "Freut mich Sie kennenzulernen"
+    },
+    "long_time_no_see": {
+      "hi": "बहुत दिनों बाद मिले",
+      "en": "Long time no see",
+      "es": "Cuánto tiempo sin verte",
+      "fr": "Ça fait longtemps",
+      "de": "Lange nicht gesehen"
+    },
+    "have_a_nice_day": {
+      "hi": "आपका दिन शुभ हो",
+      "en": "Have a nice day",
+      "es": "Que tengas un buen día",
+      "fr": "Bonne journée",
+      "de": "Schönen Tag noch"
+    },
+    "safe_journey": {
+      "hi": "शुभ यात्रा",
+      "en": "Safe journey",
+      "es": "Buen viaje",
+      "fr": "Bon voyage",
+      "de": "Gute Reise"
+    }
+  }
+}
