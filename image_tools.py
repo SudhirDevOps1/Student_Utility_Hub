@@ -3,7 +3,7 @@ from PIL import Image, ImageFilter, ImageEnhance, ExifTags
 import io
 import cv2
 import numpy as np
-from rembg import remove
+
 
 def show():
     st.markdown("## 🖼 Image Tools")
@@ -280,3 +280,4 @@ def show():
                     buf = io.BytesIO()
                     result.save(buf, format='PNG')
                     st.download_button("Download Upscaled", buf.getvalue(), "upscaled.png", "image/png")
+
