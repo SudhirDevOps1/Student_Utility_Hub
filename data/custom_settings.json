@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "study_schedules": {
+    "regular_study": {
+      "name": "Regular Study Day Schedule",
+      "schedule": [
+        {"time": "06:00 AM", "activity": "Wake up, freshen up, light exercise"},
+        {"time": "06:30 AM", "activity": "Morning revision of previous day's topics"},
+        {"time": "07:00 AM", "activity": "Breakfast"},
+        {"time": "07:30 AM", "activity": "Get ready for school/college"},
+        {"time": "08:00 AM - 02:00 PM", "activity": "School/College classes"},
+        {"time": "02:00 PM", "activity": "Lunch and rest"},
+        {"time": "03:00 PM", "activity": "Review today's class notes"},
+        {"time": "04:00 PM", "activity": "Subject 1 - Deep study session"},
+        {"time": "05:00 PM", "activity": "Short break - snacks, walk"},
+        {"time": "05:30 PM", "activity": "Subject 2 - Practice problems"},
+        {"time": "06:30 PM", "activity": "Physical activity/sports"},
+        {"time": "07:30 PM", "activity": "Dinner and family time"},
+        {"time": "08:30 PM", "activity": "Subject 3 - Light reading"},
+        {"time": "09:30 PM", "activity": "Quick revision of all subjects"},
+        {"time": "10:00 PM", "activity": "Prepare for next day, relaxation"},
+        {"time": "10:30 PM", "activity": "Sleep"}
+      ]
+    },
+    "exam_preparation": {
+      "name": "Exam Preparation Intensive Schedule",
+      "schedule": [
+        {"time": "05:30 AM", "activity": "Wake up, freshen up"},
+        {"time": "06:00 AM", "activity": "Revision of formulas and key points"},
+        {"time": "07:00 AM", "activity": "Breakfast"},
+        {"time": "07:30 AM", "activity": "Subject 1 - Important topics"},
+        {"time": "09:30 AM", "activity": "Short break - stretch, water"},
+        {"time": "09:45 AM", "activity": "Subject 1 - Practice questions"},
+        {"time": "11:00 AM", "activity": "Subject 2 - Important topics"},
+        {"time": "01:00 PM", "activity": "Lunch and power nap (20 min)"},
+        {"time": "02:00 PM", "activity": "Subject 2 - Practice questions"},
+        {"time": "03:30 PM", "activity": "Break - light snack, walk"},
+        {"time": "04:00 PM", "activity": "Subject 3 - Important topics"},
+        {"time": "06:00 PM", "activity": "Subject 3 - Practice questions"},
+        {"time": "07:30 PM", "activity": "Dinner"},
+        {"time": "08:00 PM", "activity": "Solve previous year papers"},
+        {"time": "09:30 PM", "activity": "Quick revision of weak areas"},
+        {"time": "10:00 PM", "activity": "Relax, light reading"},
+        {"time": "10:30 PM", "activity": "Sleep - rest is important"}
+      ]
+    },
+    "weekend_study": {
+      "name": "Weekend Study Schedule",
+      "schedule": [
+        {"time": "07:00 AM", "activity": "Wake up, exercise/yoga"},
+        {"time": "08:00 AM", "activity": "Breakfast"},
+        {"time": "08:30 AM", "activity": "Weekly review - what was learned"},
+        {"time": "09:30 AM", "activity": "Subject 1 - Detailed study"},
+        {"time": "11:30 AM", "activity": "Break - hobbies, relaxation"},
+        {"time": "12:00 PM", "activity": "Subject 2 - Detailed study"},
+        {"time": "02:00 PM", "activity": "Lunch and rest"},
+        {"time": "03:00 PM", "activity": "Creative learning - videos, diagrams"},
+        {"time": "04:30 PM", "activity": "Outdoor activity/sports"},
+        {"time": "06:00 PM", "activity": "Subject 3 - Light study"},
+        {"time": "07:30 PM", "activity": "Dinner"},
+        {"time": "08:00 PM", "activity": "Prepare notes for next week"},
+        {"time": "09:00 PM", "activity": "Family time/entertainment"},
+        {"time": "10:30 PM", "activity": "Plan for next week"},
+        {"time": "11:00 PM", "activity": "Sleep"}
+      ]
+    },
+    "board_exam": {
+      "name": "Board Exam Preparation Schedule",
+      "schedule": [
+        {"time": "05:00 AM", "activity": "Wake up, freshen up, meditation"},
+        {"time": "05:30 AM", "activity": "Most difficult subject - fresh mind"},
+        {"time": "07:30 AM", "activity": "Breakfast"},
+        {"time": "08:00 AM", "activity": "Continue difficult subject - problems"},
+        {"time": "10:00 AM", "activity": "Break - 15 minutes"},
+        {"time": "10:15 AM", "activity": "Second subject - theory"},
+        {"time": "12:15 PM", "activity": "Second subject - numericals/practice"},
+        {"time": "01:30 PM", "activity": "Lunch"},
+        {"time": "02:00 PM", "activity": "Short nap - 30 minutes"},
+        {"time": "02:30 PM", "activity": "Third subject - theory"},
+        {"time": "04:30 PM", "activity": "Third subject - questions"},
+        {"time": "06:00 PM", "activity": "Break - snacks, walk, refresh"},
+        {"time": "06:30 PM", "activity": "Previous year papers practice"},
+        {"time": "08:00 PM", "activity": "Dinner"},
+        {"time": "08:30 PM", "activity": "Revision of day's study"},
+        {"time": "09:30 PM", "activity": "Prepare next day's topics"},
+        {"time": "10:00 PM", "activity": "Sleep - 7 hours minimum"}
+      ]
+    },
+    "competitive_exam": {
+      "name": "Competitive Exam Preparation Schedule",
+      "schedule": [
+        {"time": "05:00 AM", "activity": "Wake up, morning routine"},
+        {"time": "05:30 AM", "activity": "Current affairs and news reading"},
+        {"time": "06:30 AM", "activity": "Mathematics/Quantitative aptitude"},
+        {"time": "08:00 AM", "activity": "Breakfast"},
+        {"time": "08:30 AM", "activity": "Reasoning and logic practice"},
+        {"time": "10:30 AM", "activity": "Short break"},
+        {"time": "10:45 AM", "activity": "English/Verbal ability"},
+        {"time": "12:45 PM", "activity": "Subject-specific preparation"},
+        {"time": "02:00 PM", "activity": "Lunch and rest"},
+        {"time": "03:00 PM", "activity": "Mock test practice"},
+        {"time": "05:00 PM", "activity": "Analyze mock test mistakes"},
+        {"time": "06:00 PM", "activity": "Break - exercise, walk"},
+        {"time": "06:30 PM", "activity": "Weak areas improvement"},
+        {"time": "08:00 PM", "activity": "Dinner"},
+        {"time": "08:30 PM", "activity": "Revision and formula memorization"},
+        {"time": "10:00 PM", "activity": "Light reading, relax"},
+        {"time": "10:30 PM", "activity": "Sleep"}
+      ]
+    },
+    "part_time_student": {
+      "name": "Working/Part-time Student Schedule",
+      "schedule": [
+        {"time": "05:30 AM", "activity": "Wake up, quick exercise"},
+        {"time": "06:00 AM", "activity": "Morning study session - 1 hour"},
+        {"time": "07:00 AM", "activity": "Get ready, breakfast"},
+        {"time": "08:00 AM - 05:00 PM", "activity": "Work/College"},
+        {"time": "05:00 PM", "activity": "Commute - listen to educational podcasts"},
+        {"time": "06:00 PM", "activity": "Rest and refresh"},
+        {"time": "06:30 PM", "activity": "Evening study session - Subject 1"},
+        {"time": "08:00 PM", "activity": "Dinner"},
+        {"time": "08:30 PM", "activity": "Evening study session - Subject 2"},
+        {"time": "10:00 PM", "activity": "Quick revision"},
+        {"time": "10:30 PM", "activity": "Prepare for next day"},
+        {"time": "11:00 PM", "activity": "Sleep"}
+      ]
+    }
+  }
+}
