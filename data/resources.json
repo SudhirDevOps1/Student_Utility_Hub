@@ -1,0 +1,259 @@
+{
+  "version": 1,
+  "shortcuts": {
+    "windows": {
+      "general": [
+        {"keys": "Ctrl + C", "action": "Copy selected item"},
+        {"keys": "Ctrl + X", "action": "Cut selected item"},
+        {"keys": "Ctrl + V", "action": "Paste copied item"},
+        {"keys": "Ctrl + Z", "action": "Undo last action"},
+        {"keys": "Ctrl + Y", "action": "Redo last action"},
+        {"keys": "Ctrl + A", "action": "Select all items"},
+        {"keys": "Ctrl + S", "action": "Save current file"},
+        {"keys": "Ctrl + P", "action": "Print current document"},
+        {"keys": "Ctrl + F", "action": "Find text in document"},
+        {"keys": "Ctrl + H", "action": "Find and replace"},
+        {"keys": "Ctrl + N", "action": "Create new document"},
+        {"keys": "Ctrl + O", "action": "Open existing file"},
+        {"keys": "Ctrl + W", "action": "Close current window"},
+        {"keys": "Alt + F4", "action": "Close current application"},
+        {"keys": "Win + D", "action": "Show/hide desktop"}
+      ],
+      "navigation": [
+        {"keys": "Alt + Tab", "action": "Switch between open apps"},
+        {"keys": "Win + Tab", "action": "Open task view"},
+        {"keys": "Win + E", "action": "Open File Explorer"},
+        {"keys": "Win + L", "action": "Lock computer"},
+        {"keys": "Win + I", "action": "Open Settings"},
+        {"keys": "Win + S", "action": "Open Search"},
+        {"keys": "Win + R", "action": "Open Run dialog"},
+        {"keys": "Ctrl + Shift + Esc", "action": "Open Task Manager"},
+        {"keys": "Win + Arrow Keys", "action": "Snap windows to sides"},
+        {"keys": "Win + M", "action": "Minimize all windows"},
+        {"keys": "Win + Home", "action": "Minimize all except active window"}
+      ],
+      "browser": [
+        {"keys": "Ctrl + T", "action": "Open new tab"},
+        {"keys": "Ctrl + Shift + T", "action": "Reopen closed tab"},
+        {"keys": "Ctrl + Tab", "action": "Switch to next tab"},
+        {"keys": "Ctrl + Shift + Tab", "action": "Switch to previous tab"},
+        {"keys": "Ctrl + L", "action": "Focus address bar"},
+        {"keys": "Ctrl + D", "action": "Bookmark current page"},
+        {"keys": "Ctrl + J", "action": "Open downloads"},
+        {"keys": "Ctrl + H", "action": "Open history"},
+        {"keys": "Ctrl + Shift + N", "action": "Open incognito window"},
+        {"keys": "F5", "action": "Refresh page"},
+        {"keys": "Ctrl + F5", "action": "Hard refresh (clear cache)"},
+        {"keys": "Ctrl + + / -", "action": "Zoom in / out"},
+        {"keys": "Ctrl + 0", "action": "Reset zoom to default"}
+      ],
+      "text_editing": [
+        {"keys": "Ctrl + B", "action": "Bold text"},
+        {"keys": "Ctrl + I", "action": "Italic text"},
+        {"keys": "Ctrl + U", "action": "Underline text"},
+        {"keys": "Ctrl + Shift + >", "action": "Increase font size"},
+        {"keys": "Ctrl + Shift + <", "action": "Decrease font size"},
+        {"keys": "Ctrl + E", "action": "Center align text"},
+        {"keys": "Ctrl + L", "action": "Left align text"},
+        {"keys": "Ctrl + R", "action": "Right align text"},
+        {"keys": "Ctrl + J", "action": "Justify text"},
+        {"keys": "Ctrl + Home", "action": "Go to beginning of document"},
+        {"keys": "Ctrl + End", "action": "Go to end of document"},
+        {"keys": "Ctrl + Backspace", "action": "Delete entire word"},
+        {"keys": "Shift + Arrow", "action": "Select text character by character"},
+        {"keys": "Ctrl + Shift + Arrow", "action": "Select text word by word"}
+      ],
+      "screenshots": [
+        {"keys": "PrtScn", "action": "Screenshot entire screen to clipboard"},
+        {"keys": "Win + PrtScn", "action": "Screenshot and save to Pictures"},
+        {"keys": "Alt + PrtScn", "action": "Screenshot active window"},
+        {"keys": "Win + Shift + S", "action": "Open Snipping Tool"}
+      ]
+    },
+    "mac": {
+      "general": [
+        {"keys": "Cmd + C", "action": "Copy selected item"},
+        {"keys": "Cmd + X", "action": "Cut selected item"},
+        {"keys": "Cmd + V", "action": "Paste copied item"},
+        {"keys": "Cmd + Z", "action": "Undo last action"},
+        {"keys": "Cmd + Shift + Z", "action": "Redo last action"},
+        {"keys": "Cmd + A", "action": "Select all items"},
+        {"keys": "Cmd + S", "action": "Save current file"},
+        {"keys": "Cmd + P", "action": "Print current document"},
+        {"keys": "Cmd + F", "action": "Find text in document"},
+        {"keys": "Cmd + G", "action": "Find next occurrence"},
+        {"keys": "Cmd + N", "action": "Create new document"},
+        {"keys": "Cmd + O", "action": "Open existing file"},
+        {"keys": "Cmd + W", "action": "Close current window"},
+        {"keys": "Cmd + Q", "action": "Quit application"},
+        {"keys": "Cmd + H", "action": "Hide current application"}
+      ],
+      "navigation": [
+        {"keys": "Cmd + Tab", "action": "Switch between open apps"},
+        {"keys": "Cmd + Space", "action": "Open Spotlight search"},
+        {"keys": "Cmd + ,", "action": "Open app preferences"},
+        {"keys": "Ctrl + Cmd + Q", "action": "Lock screen"},
+        {"keys": "Cmd + Option + Esc", "action": "Force quit application"},
+        {"keys": "Cmd + M", "action": "Minimize window"},
+        {"keys": "Cmd + Option + M", "action": "Minimize all windows"},
+        {"keys": "Ctrl + Up Arrow", "action": "Open Mission Control"},
+        {"keys": "Ctrl + Down Arrow", "action": "Show all windows of current app"},
+        {"keys": "Cmd + `", "action": "Switch between windows of same app"}
+      ],
+      "browser": [
+        {"keys": "Cmd + T", "action": "Open new tab"},
+        {"keys": "Cmd + Shift + T", "action": "Reopen closed tab"},
+        {"keys": "Cmd + Option + Right", "action": "Switch to next tab"},
+        {"keys": "Cmd + Option + Left", "action": "Switch to previous tab"},
+        {"keys": "Cmd + L", "action": "Focus address bar"},
+        {"keys": "Cmd + D", "action": "Bookmark current page"},
+        {"keys": "Cmd + Y", "action": "Open history"},
+        {"keys": "Cmd + Shift + N", "action": "Open incognito window"},
+        {"keys": "Cmd + R", "action": "Refresh page"},
+        {"keys": "Cmd + Shift + R", "action": "Hard refresh (clear cache)"},
+        {"keys": "Cmd + + / -", "action": "Zoom in / out"},
+        {"keys": "Cmd + 0", "action": "Reset zoom to default"}
+      ],
+      "text_editing": [
+        {"keys": "Cmd + B", "action": "Bold text"},
+        {"keys": "Cmd + I", "action": "Italic text"},
+        {"keys": "Cmd + U", "action": "Underline text"},
+        {"keys": "Cmd + Shift + >", "action": "Increase font size"},
+        {"keys": "Cmd + Shift + <", "action": "Decrease font size"},
+        {"keys": "Cmd + Up", "action": "Go to beginning of document"},
+        {"keys": "Cmd + Down", "action": "Go to end of document"},
+        {"keys": "Option + Delete", "action": "Delete entire word"},
+        {"keys": "Shift + Arrow", "action": "Select text character by character"},
+        {"keys": "Option + Shift + Arrow", "action": "Select text word by word"}
+      ],
+      "screenshots": [
+        {"keys": "Cmd + Shift + 3", "action": "Screenshot entire screen"},
+        {"keys": "Cmd + Shift + 4", "action": "Screenshot selected area"},
+        {"keys": "Cmd + Shift + 4 + Space", "action": "Screenshot window"},
+        {"keys": "Cmd + Shift + 5", "action": "Open screenshot toolbar"}
+      ]
+    }
+  },
+  "productivity_apps": [
+    {
+      "name": "Notion",
+      "category": "Notes & Organization",
+      "description": "All-in-one workspace for notes, databases, wikis, and project management",
+      "platform": "Windows, Mac, iOS, Android, Web"
+    },
+    {
+      "name": "Anki",
+      "category": "Flashcards",
+      "description": "Spaced repetition flashcard app for effective memorization",
+      "platform": "Windows, Mac, Linux, iOS, Android"
+    },
+    {
+      "name": "Forest",
+      "category": "Focus",
+      "description": "Stay focused by planting virtual trees - phone stays unused, tree grows",
+      "platform": "iOS, Android, Chrome Extension"
+    },
+    {
+      "name": "Todoist",
+      "category": "Task Management",
+      "description": "Simple and powerful to-do list and task manager",
+      "platform": "Windows, Mac, iOS, Android, Web"
+    },
+    {
+      "name": "Google Calendar",
+      "category": "Scheduling",
+      "description": "Schedule classes, exams, and study sessions with reminders",
+      "platform": "iOS, Android, Web"
+    },
+    {
+      "name": "Obsidian",
+      "category": "Notes & Knowledge",
+      "description": "Markdown-based note-taking with powerful linking features",
+      "platform": "Windows, Mac, Linux, iOS, Android"
+    },
+    {
+      "name": "Grammarly",
+      "category": "Writing",
+      "description": "AI-powered writing assistant for grammar and style",
+      "platform": "Windows, Mac, iOS, Android, Browser Extension"
+    },
+    {
+      "name": "Quizlet",
+      "category": "Flashcards",
+      "description": "Create and study flashcards with games and tests",
+      "platform": "iOS, Android, Web"
+    },
+    {
+      "name": "Evernote",
+      "category": "Notes",
+      "description": "Note-taking app with web clipping and organization features",
+      "platform": "Windows, Mac, iOS, Android, Web"
+    },
+    {
+      "name": "Focus@Will",
+      "category": "Music & Focus",
+      "description": "Scientifically designed music to boost concentration",
+      "platform": "iOS, Android, Web"
+    },
+    {
+      "name": "Cold Turkey",
+      "category": "Website Blocker",
+      "description": "Block distracting websites and apps during study time",
+      "platform": "Windows, Mac"
+    },
+    {
+      "name": "Trello",
+      "category": "Project Management",
+      "description": "Visual board for organizing projects and tasks",
+      "platform": "Windows, Mac, iOS, Android, Web"
+    },
+    {
+      "name": "Microsoft OneNote",
+      "category": "Notes",
+      "description": "Digital notebook for organizing notes with multimedia",
+      "platform": "Windows, Mac, iOS, Android, Web"
+    },
+    {
+      "name": "Pomodoro Timer",
+      "category": "Focus Timer",
+      "description": "Simple timer for Pomodoro technique study sessions",
+      "platform": "iOS, Android, Web"
+    },
+    {
+      "name": "Wolfram Alpha",
+      "category": "Math & Science",
+      "description": "Computational knowledge engine for solving complex problems",
+      "platform": "iOS, Android, Web"
+    },
+    {
+      "name": "Duolingo",
+      "category": "Language Learning",
+      "description": "Gamified language learning with daily lessons",
+      "platform": "iOS, Android, Web"
+    },
+    {
+      "name": "Khan Academy",
+      "category": "Learning",
+      "description": "Free courses on math, science, and more with videos",
+      "platform": "iOS, Android, Web"
+    },
+    {
+      "name": "Photomath",
+      "category": "Math",
+      "description": "Scan math problems and get step-by-step solutions",
+      "platform": "iOS, Android"
+    },
+    {
+      "name": "SimpleMind",
+      "category": "Mind Mapping",
+      "description": "Create mind maps for brainstorming and note-taking",
+      "platform": "Windows, Mac, iOS, Android"
+    },
+    {
+      "name": "Be Focused",
+      "category": "Focus Timer",
+      "description": "Work timer with task tracking and statistics",
+      "platform": "iOS, Mac"
+    }
+  ]
+}
